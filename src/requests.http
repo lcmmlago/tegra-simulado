@@ -1,0 +1,8 @@
+GET https://tegra-food-skyot.herokuapp.com/products
+
+###
+
+GET https://tegra-food-skyot.herokuapp.com/products/1
+
+###
+http://localhost:3000/produtos/1
